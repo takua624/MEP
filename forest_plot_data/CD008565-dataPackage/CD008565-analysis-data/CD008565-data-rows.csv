@@ -1,0 +1,70 @@
+﻿Analysis group,Analysis number,Analysis name,Subgroup,Study,Study year,GIV Mean,GIV SE,Experimental mean,Experimental SD,Experimental cases,Experimental N,Control mean,Control SD,Control cases,Control N,O-E,Variance,Weight,Mean,CI start,CI end,Footnotes
+1,1,Resumption of menstrual regularity (menstrual cycle length in days),,Sathyapalan 2009,2009,0.0,0.0,50.0,26.153394,0,19,52.0,42.426407,0,18,0.0,0.0,100.0,-2.0,-24.856912,20.856912,After 3 months' treatment
+1,2,Body mass index (kg/m2),After 3 months' treatment,Sathyapalan 2009,2009,0.0,0.0,33.16,6.102459,0,19,33.92,5.939697,0,18,0.0,0.0,57.08691,-0.76,-4.640531,3.120531,
+1,2,Body mass index (kg/m2),After 6 months' treatment,Puurunen 2013,2009,0.0,0.0,30.7,9.2,0,15,26.8,4.6,0,13,0.0,0.0,30.77987,3.9,-1.384769,9.184769,
+1,2,Body mass index (kg/m2),After 6 weeks' treatment,Raja-Khan 2011,2009,0.0,0.0,38.2,8.4,0,9,35.8,10.8,0,11,0.0,0.0,12.13322,2.4,-6.017272,10.817272,
+1,3,Waist circumference (cm),,Sathyapalan 2009,2009,0.0,0.0,98.9,9.589578,0,19,98.7,8.909545,0,18,0.0,0.0,0.0,0.2,-5.760998,6.160998,After 3 months' treatment
+1,4,Waist-hip ratio,,Puurunen 2013,2009,0.0,0.0,0.88,0.08,0,15,0.85,0.06,0,13,0.0,0.0,0.0,0.03,-0.021989,0.081989,After 6 months' treatment
+1,5,Improvement in testosterone level (nmol/L),After 6 weeks' treatment,Raja-Khan 2011,2009,0.0,0.0,-0.52,0.871638,0,9,-0.58,0.893111,0,11,0.0,0.0,100.0,0.06,-0.716429,0.836429,
+1,5,Improvement in testosterone level (nmol/L),After 3 months' treatment,Puurunen 2013,2009,0.0,0.0,0.0,0.975114,0,15,0.0,0.446802,0,13,0.0,0.0,51.366647,0.0,-0.55,0.55,
+1,5,Improvement in testosterone level (nmol/L),After 3 months' treatment,Sathyapalan 2009,2009,0.0,0.0,-1.2,0.912892,0,19,-0.1,1.105998,0,18,0.0,0.0,48.633353,-1.1,-1.755399,-0.444601,
+1,5,Improvement in testosterone level (nmol/L),After 6 months' treatment,Puurunen 2013,2009,0.0,0.0,-0.1,0.975114,0,15,-0.2,0.330965,0,13,0.0,0.0,100.0,0.1,-0.42524,0.62524,
+1,6,Total cholesterol (mmol/L),After 6 weeks' treatment,Raja-Khan 2011,2009,0.0,0.0,3.43,0.51,0,9,4.99,0.87,0,11,0.0,0.0,29.8199,-1.56,-2.172654,-0.947346,
+1,6,Total cholesterol (mmol/L),After 3 months' treatment,Sathyapalan 2009,2009,0.0,0.0,3.4,0.87178,0,19,4.6,0.848528,0,18,0.0,0.0,36.420939,-1.2,-1.754362,-0.645638,
+1,6,Total cholesterol (mmol/L),After 6 months' treatment,Puurunen 2013,2009,0.0,0.0,3.6,0.6,0,15,4.8,0.9,0,13,0.0,0.0,33.759161,-1.2,-1.775802,-0.624198,
+1,7,Low-density lipoprotein (LDL) cholesterol (mmol/L),After 6 weeks' treatment,Raja-Khan 2011,2009,0.0,0.0,1.78,0.5,0,9,3.07,0.7,0,11,0.0,0.0,29.648705,-1.29,-1.817093,-0.762907,
+1,7,Low-density lipoprotein (LDL) cholesterol (mmol/L),After 3 months' treatment,Sathyapalan 2009,2009,0.0,0.0,1.8,0.87,0,19,2.7,0.42,0,18,0.0,0.0,43.199569,-0.9,-1.336667,-0.463333,
+1,7,Low-density lipoprotein (LDL) cholesterol (mmol/L),After 6 months' treatment,Puurunen 2013,2009,0.0,0.0,1.8,0.5,0,15,3.0,0.9,0,13,0.0,0.0,27.151726,-1.2,-1.750796,-0.649204,
+1,8,High-density lipoprotein (HDL) cholesterol (mmol/L),After 6 weeks' treatment,Raja-Khan 2011,2009,0.0,0.0,1.24,0.31,0,9,1.22,0.22,0,11,0.0,0.0,37.171723,0.02,-0.220667,0.260667,
+1,8,High-density lipoprotein (HDL) cholesterol (mmol/L),After 3 months' treatment,Sathyapalan 2009,2009,0.0,0.0,1.08,0.43589,0,19,1.1,0.381838,0,18,0.0,0.0,30.964994,-0.02,-0.283686,0.243686,
+1,8,High-density lipoprotein (HDL) cholesterol (mmol/L),After 6 months' treatment,Puurunen 2013,2009,0.0,0.0,1.5,0.4,0,15,1.5,0.3,0,13,0.0,0.0,31.863283,0.0,-0.259943,0.259943,
+1,9,Triglycerides (mmol/L),After 6 weeks' treatment,Raja-Khan 2011,2009,0.0,0.0,0.89,0.27,0,9,1.46,0.5,0,11,0.0,0.0,37.242558,-0.57,-0.914125,-0.225875,
+1,9,Triglycerides (mmol/L),After 3 months' treatment,Sathyapalan 2009,2009,0.0,0.0,1.08,0.566657,0,19,1.69,1.145513,0,18,0.0,0.0,12.784926,-0.61,-1.197336,-0.022664,
+1,9,Triglycerides (mmol/L),After 6 months' treatment,Puurunen 2013,2009,0.0,0.0,0.9,0.4,0,15,1.1,0.4,0,13,0.0,0.0,49.972515,-0.2,-0.497078,0.097078,
+1,10,Improvement in high-sensitivity C-reactive protein (nmol/L),After 6 months' treatment,Puurunen 2013,2009,0.0,0.0,12.38,19.05,0,14,17.14,20.0,0,13,0.0,0.0,80.449222,-4.76,-19.517219,9.997219,
+1,10,Improvement in high-sensitivity C-reactive protein (nmol/L),After 3 months' treatment,Sathyapalan 2009,2009,0.0,0.0,32.38,45.681261,0,19,54.29,64.657844,0,18,0.0,0.0,13.332048,-21.91,-58.160751,14.340751,
+1,10,Improvement in high-sensitivity C-reactive protein (nmol/L),After 6 weeks' treatment,Raja-Khan 2011,2009,0.0,0.0,40.96,51.43,0,9,57.15,69.53,0,11,0.0,0.0,6.21873,-16.19,-69.268006,36.888006,
+1,11,Fasting insulin (μIU/L),After 6 weeks' treatment,Raja-Khan 2011,2009,0.0,0.0,1.4,5.203807,0,9,-1.1,5.284239,0,11,0.0,0.0,39.323844,2.5,-2.116253,7.116253,
+1,11,Fasting insulin (μIU/L),After 3 months' treatment,Sathyapalan 2009,2009,0.0,0.0,12.4,7.410128,0,19,17.6,10.182338,0,18,0.0,0.0,32.840529,-5.2,-10.964427,0.564427,
+1,11,Fasting insulin (μIU/L),After 6 months' treatment,Puurunen 2013,2009,0.0,0.0,1.4,12.261153,0,15,-0.1,5.113405,0,13,0.0,0.0,27.835627,1.5,-5.299039,8.299039,
+1,12,Homeostatic model assessment for insulin resistance,,Sathyapalan 2009,2009,0.0,0.0,2.7,1.74356,0,19,3.8,2.12132,0,18,0.0,0.0,100.0,-1.1,-2.354989,0.154989,After 3 months' treatment
+1,13,Intravenous glucose tolerance test (IVGTT) insulin sensitivity,,Puurunen 2013,2009,0.0,0.0,3.4,1.8,0,15,6.9,4.4,0,13,0.0,0.0,100.0,-3.5,-6.059409,-0.940591,After 6 months' treatment
+2,1,Resumption of menstrual regularity (spontaneous menses per 6 months),,Banaszewska 2011,2009,0.0,0.0,1.7,1.1,0,36,1.1,1.1,0,33,0.0,0.0,0.0,0.6,0.080414,1.119586,
+2,2,Body mass index (kg/m2),,Banaszewska 2011,2009,0.0,0.0,-1.35,2.3,0,36,-0.93,1.0,0,33,0.0,0.0,100.0,-0.42,-1.24516,0.40516,After 6 months' treatment
+2,3,Improvement in hirsutism (Ferriman-Gallwey score),,Banaszewska 2011,2009,0.0,0.0,-1.0,0.9,0,36,-0.84,2.010597,0,33,0.0,0.0,0.0,-0.16,-0.906332,0.586332,After 6 months' treatment
+2,4,Improvement in acne severity (score),,Banaszewska 2011,2009,0.0,0.0,-1.06,0.84,0,36,-0.75,0.689348,0,33,0.0,0.0,0.0,-0.31,-0.6714,0.0514,After 6 months' treatment
+2,5,Improvement in testosterone level (nmol/L),,Banaszewska 2011,2009,0.0,0.0,-0.55,0.62,0,36,-0.52,0.8,0,33,0.0,0.0,0.0,-0.03,-0.369881,0.309881,After 6 months' treatment
+2,6,Total cholesterol (mmol/L),,Banaszewska 2011,2009,0.0,0.0,-0.9,0.87,0,36,0.07,0.69,0,33,0.0,0.0,0.0,-0.97,-1.339037,-0.600963,After 6 months' treatment
+2,7,Low-density lipoprotein (LDL) cholesterol (mmol/L),,Banaszewska 2011,2009,0.0,0.0,-0.83,0.69,0,36,0.06,0.63,0,33,0.0,0.0,0.0,-0.89,-1.201457,-0.578543,After 6 months' treatment
+2,8,High-density lipoprotein (HDL) cholesterol (mmol/L),,Banaszewska 2011,2009,0.0,0.0,-0.02,0.28,0,36,0.01,0.32,0,33,0.0,0.0,0.0,-0.03,-0.172429,0.112429,After 6 months' treatment
+2,9,Triglyceride levels (mmol/L),,Banaszewska 2011,2009,0.0,0.0,-0.15,0.48,0,36,0.14,0.47,0,33,0.0,0.0,0.0,-0.29,-0.514276,-0.065724,After 6 months' treatment
+2,10,Fasting insulin (μIU/L),,Banaszewska 2011,2009,0.0,0.0,-1.73,4.56,0,36,0.72,5.74,0,33,0.0,0.0,0.0,-2.45,-4.910525,0.010525,After 6 months' treatment
+3,1,Body mass index (kg/m2),,Duleba 2006,2006,0.0,0.0,0.09,0.556525,0,24,0.04,1.006482,0,24,0.0,0.0,0.0,0.05,-0.410127,0.510127,After 3 months' treatment
+3,2,Improvement in hirsutism (Ferriman-Gallwey score),,Duleba 2006,2006,0.0,0.0,-0.25,0.529452,0,24,-0.13,0.482673,0,24,0.0,0.0,100.0,-0.12,-0.406632,0.166632,After 3 months' treatment
+3,3,Improvement in testosterone level (nmol/L),,Duleba 2006,2006,0.0,0.0,-1.2,0.923595,0,24,-0.38,1.065687,0,24,0.0,0.0,100.0,-0.82,-1.384195,-0.255805,After 3 months' treatment
+3,4,Total cholesterol (mmol/L),,Duleba 2006,2006,0.0,0.0,-0.53,0.698617,0,24,0.4,0.722299,0,24,0.0,0.0,0.0,-0.93,-1.332028,-0.527972,After 3 months' treatment
+3,5,Low-density lipoprotein (LDL) cholesterol (mmol/L),,Duleba 2006,2006,0.0,0.0,-0.67,0.817026,0,24,0.07,0.568366,0,24,0.0,0.0,0.0,-0.74,-1.138185,-0.341815,After 3 months' treatment
+3,6,High-density lipoprotein (HDL) cholesterol (mmol/L),,Duleba 2006,2006,0.0,0.0,0.15,0.319706,0,24,0.21,0.24866,0,24,0.0,0.0,0.0,-0.06,-0.22204,0.10204,After 3 months' treatment
+3,7,Triglyceride levels (mmol/L),,Duleba 2006,2006,0.0,0.0,0.04,0.296024,0,24,0.22,0.485479,0,24,0.0,0.0,0.0,-0.18,-0.407488,0.047488,After 3 months' treatment
+3,8,Fasting insulin (μIU/L),,Duleba 2006,2006,0.0,0.0,1.6,4.499566,0,24,1.0,5.210024,0,24,0.0,0.0,0.0,0.6,-2.154152,3.354152,After 3 months' treatment
+3,9,Homeostatic model assessment (HOMA) for insulin resistance,,Duleba 2006,2006,0.0,0.0,-1.49,2.924718,0,24,-0.33,4.156178,0,24,0.0,0.0,0.0,-1.16,-3.193228,0.873228,After 3 months' treatment
+4,1,Resumption of menstrual regularity (spontaneous menses per 6 months),,Banaszewska 2011,2009,0.0,0.0,1.6,1.058301,0,28,1.1,1.148913,0,33,0.0,0.0,0.0,0.5,-0.054362,1.054362,After 6 months' treatment
+4,2,Body mass index (kg/m2),,Banaszewska 2011,2009,0.0,0.0,-0.35,0.793725,0,28,-0.93,0.804239,0,33,0.0,0.0,49.159989,0.58,0.177849,0.982151,After 6 months' treatment
+4,2,Body mass index (kg/m2),,Mehrabian 2016,2016,0.0,0.0,-1.13,0.391,0,34,-0.29,0.356,0,34,0.0,0.0,50.840011,-0.84,-1.017742,-0.662258,After 6 months' treatment
+4,3,Waist circumference (cm),,Mehrabian 2016,2016,0.0,0.0,-2.79,1.61,0,34,-1.15,0.784,0,34,0.0,0.0,100.0,-1.64,-2.241924,-1.038076,After 6 months' treatment
+4,4,Improvement in hirsutism (Ferriman-Gallwey score),,Banaszewska 2011,2009,0.0,0.0,-1.1,0.52915,0,28,-0.84,2.010597,0,33,0.0,0.0,0.0,-0.26,-0.973438,0.453438,After 6 months' treatment
+4,5,Improvement in acne severity (score),,Banaszewska 2011,2009,0.0,0.0,-0.93,0.687895,0,28,-0.75,0.689348,0,33,0.0,0.0,0.0,-0.18,-0.526753,0.166753,After 6 months' treatment
+4,6,Improvement in testosterone level (nmol/L),,Banaszewska 2011,2009,0.0,0.0,-0.76,0.52915,0,28,-0.52,0.804239,0,33,0.0,0.0,0.0,-0.24,-0.577205,0.097205,After 6 months' treatment
+4,7,Total cholesterol (mmol/L),,Banaszewska 2011,2009,0.0,0.0,-0.92,0.84,0,28,0.07,0.69,0,33,0.0,0.0,0.0,-0.99,-1.380162,-0.599838,After 6 months' treatment
+4,8,Low-density lipoprotein (LDL) cholesterol (mmol/L),,Banaszewska 2011,2009,0.0,0.0,-0.85,0.69,0,28,0.06,0.63,0,33,0.0,0.0,0.0,-0.91,-1.243947,-0.576053,After 6 months' treatment
+4,9,High-density lipoprotein (HDL) cholesterol (mmol/L),,Banaszewska 2011,2009,0.0,0.0,-0.07,0.38,0,28,0.01,0.32,0,33,0.0,0.0,1.43887,-0.08,-0.258132,0.098132,After 6 months' treatment
+4,9,High-density lipoprotein (HDL) cholesterol (mmol/L),,Mehrabian 2016,2016,0.0,0.0,-0.01,0.04,0,34,-0.01,0.05,0,34,0.0,0.0,98.56113,0.0,-0.021523,0.021523,After 6 months' treatment
+4,10,Triglyceride levels (mmol/L),,Banaszewska 2011,2009,0.0,0.0,-0.04,0.24,0,28,0.14,0.47,0,33,0.0,0.0,25.548198,-0.18,-0.363349,0.003349,After 6 months' treatment
+4,10,Triglyceride levels (mmol/L),,Mehrabian 2016,2016,0.0,0.0,-0.28,0.3,0,34,-0.08,0.11,0,34,0.0,0.0,74.451802,-0.2,-0.307404,-0.092596,After 6 months' treatment
+4,11,High-sensitivity C-reactive protein (nmol/L),,Mehrabian 2016,2016,0.0,0.0,-2.0,2.54,0,34,-0.38,1.45,0,34,0.0,0.0,100.0,-1.62,-2.603096,-0.636904,After 6 months' treatment
+4,12,Fasting insulin (μIU/L),,Banaszewska 2011,2009,0.0,0.0,-0.29,3.01616,0,28,0.72,5.74456,0,33,0.0,0.0,0.0,-1.01,-3.266003,1.246003,After 6 months' treatment
+5,1,Body mass index (kg/m2),,Mehrabian 2016,2016,0.0,0.0,-1.13,0.391,0,34,-0.08,0.345,0,34,0.0,0.0,0.0,-1.05,-1.225274,-0.874726,After 6 months' treatment
+5,2,Waist circumference (cm),,Mehrabian 2016,2016,0.0,0.0,-2.79,1.61,0,34,-0.88,0.64,0,34,0.0,0.0,0.0,-1.91,-2.492361,-1.327639,After 6 months' treatment
+5,3,High-density lipoprotein (HDL) cholesterol (mmol/L),,Mehrabian 2016,2016,0.0,0.0,-0.01,0.04,0,34,-0.01,0.04,0,34,0.0,0.0,0.0,0.0,-0.019014,0.019014,After 6 months' treatment
+5,4,Triglycerides (mmol/L),,Mehrabian 2016,2016,0.0,0.0,-0.28,0.3,0,34,-0.14,0.05,0,34,0.0,0.0,0.0,-0.14,-0.24223,-0.03777,After 6 months' treatment
+5,5,High-sensitivity C-reactive protein (nmol/L),,Mehrabian 2016,2016,0.0,0.0,-2.0,2.54,0,34,-2.48,3.32,0,34,0.0,0.0,0.0,0.48,-0.925092,1.885092,After 6 months' treatment

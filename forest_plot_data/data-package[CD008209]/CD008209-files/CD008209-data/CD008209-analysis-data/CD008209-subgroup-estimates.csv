@@ -1,0 +1,3 @@
+﻿Analysis group,Analysis number,Subgroup,Subgroup number,Experimental cases,Experimental N,Control cases,Control N,Weight,Mean,CI start,CI end,Heterogeneity Tau²,Tau² CI start,Tau² CI end,Heterogeneity Chi²,Heterogeneity df,Heterogeneity P,Heterogeneity I²,Effect Z,Effect T,Effect P,ID
+1,1,Measured at baseline,1,,6,,6,100.0,-0.3,-1.878146,1.278146,,,,0.0,0,1.0,0.0,0.372582,,0.709459,subgroup:459620577128405690
+1,1,Measured after 12 months,2,,6,,6,100.0,-18.2,-23.178977,-13.221023,,,,0.0,0,1.0,0.0,7.164392,,0.0,subgroup:459620577128929980

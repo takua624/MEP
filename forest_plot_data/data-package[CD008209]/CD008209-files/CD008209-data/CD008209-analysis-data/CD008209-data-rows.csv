@@ -1,0 +1,3 @@
+﻿Analysis group,Analysis number,Analysis name,Subgroup,Subgroup number,Applicability,Study,Study year,GIV Mean,GIV SE,Experimental mean,Experimental SD,Experimental cases,Experimental N,Control mean,Control SD,Control cases,Control N,O-E,Variance,Weight,Mean,CI start,CI end,Footnotes
+1,1,Uterine volume (mL),Measured at baseline,1,SUBGROUP_AND_OVERALL,Nabhan 2009,2009,0.0,0.0,1.6,1.0,0,6,1.9,1.7,0,6,0.0,0.0,100.0,-0.3,-1.878146,1.278146,
+1,1,Uterine volume (mL),Measured after 12 months,2,SUBGROUP_AND_OVERALL,Nabhan 2009,2009,0.0,0.0,4.0,4.4,0,6,22.2,4.4,0,6,0.0,0.0,100.0,-18.2,-23.178977,-13.221023,

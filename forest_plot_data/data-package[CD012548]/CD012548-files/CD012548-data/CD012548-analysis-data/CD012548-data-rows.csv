@@ -1,0 +1,134 @@
+﻿Analysis group,Analysis number,Analysis name,Subgroup,Subgroup number,Applicability,Study,Study year,GIV Mean,GIV SE,Experimental mean,Experimental SD,Experimental cases,Experimental N,Control mean,Control SD,Control cases,Control N,O-E,Variance,Weight,Mean,CI start,CI end,Footnotes
+1,1,Serious adverse events,,,SUBGROUP_AND_OVERALL,Anderson 2013 (CS28),2009,0.0,0.0,0.0,0.0,0,27,0.0,0.0,1,13,0.0,0.0,0.693589,0.166667,0.007245,3.833933,
+1,1,Serious adverse events,,,SUBGROUP_AND_OVERALL,Axcrona 2012 (CS31),2009,0.0,0.0,0.0,0.0,1,84,0.0,0.0,7,98,0.0,0.0,1.570709,0.166667,0.020928,1.327323,
+1,1,Serious adverse events,,,SUBGROUP_AND_OVERALL,Crawford 2013 (CS37),2009,0.0,0.0,0.0,0.0,6,50,0.0,0.0,18,178,0.0,0.0,8.367115,1.186667,0.497629,2.829777,
+1,1,Serious adverse events,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,24,202,0.0,0.0,14,100,0.0,0.0,15.523421,0.848656,0.459269,1.568183,Degarelix 240 mg induction dose/160 mg maintenance dose s.c.
+1,1,Serious adverse events,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,21,207,0.0,0.0,14,101,0.0,0.0,14.733619,0.731884,0.388617,1.378361,Degarelix 240 mg induction dose/80 mg maintenance dose s.c.
+1,1,Serious adverse events,,,SUBGROUP_AND_OVERALL,Margel 2019 (0102-15-RMC),2019,0.0,0.0,0.0,0.0,1,41,0.0,0.0,8,39,0.0,0.0,1.636561,0.118902,0.015583,0.907241,Major cardiovascular and cerebrovascular events
+1,1,Serious adverse events,,,SUBGROUP_AND_OVERALL,Mason 2013 (CS30),2009,0.0,0.0,0.0,0.0,7,181,0.0,0.0,0,64,0.0,0.0,0.839207,5.357143,0.310294,92.489782,
+1,1,Serious adverse events,,,SUBGROUP_AND_OVERALL,Ozono 2018 (3550-CL-0010),2016,0.0,0.0,0.0,0.0,15,117,0.0,0.0,16,117,0.0,0.0,13.847984,0.9375,0.486421,1.806884,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
+1,1,Serious adverse events,,,SUBGROUP_AND_OVERALL,Shore 2012 (CS35),2009,0.0,0.0,0.0,0.0,58,565,0.0,0.0,33,283,0.0,0.0,30.178926,0.880343,0.588448,1.317031,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 month s.c.
+1,1,Serious adverse events,,,SUBGROUP_AND_OVERALL,Xie 2016 (PANDA),2016,0.0,0.0,0.0,0.0,12,142,0.0,0.0,18,141,0.0,0.0,12.60887,0.661972,0.331276,1.322784,
+1,2,Quality of life,,,SUBGROUP_AND_OVERALL,Crawford 2013 (CS37),2009,0.0,0.0,-4.28,11.34,0,41,-1.65,11.15,0,150,0.0,0.0,9.563128,-0.234087,-0.580305,0.11213,Functional Assessment of Cancer Therapy – Prostate (FACT-P)
+1,2,Quality of life,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.871,0.11,0,935,0.861,0.113,0,914,0.0,0.0,54.400532,0.089655,-0.001558,0.180868,EORTC QLQ-C30 mapped to EORTC-8D; degarelix 240 mg induction dose/80 mg maintenance dose every 4 weeks
+1,2,Quality of life,,,SUBGROUP_AND_OVERALL,Shore 2012 (CS35),2009,0.0,0.0,0.18,10.9,0,565,-0.87,9.76,0,282,0.0,0.0,36.03634,0.099583,-0.043399,0.242565,Short-Form-36 (SF-36); degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
+1,3,Injection site pain,,,SUBGROUP_AND_OVERALL,Anderson 2013 (CS28),2009,0.0,0.0,0.0,0.0,6,27,0.0,0.0,0,13,0.0,0.0,5.460628,6.5,0.393694,107.316907,
+1,3,Injection site pain,,,SUBGROUP_AND_OVERALL,Axcrona 2012 (CS31),2009,0.0,0.0,0.0,0.0,12,84,0.0,0.0,0,98,0.0,0.0,5.437419,29.117647,1.749869,484.5147,
+1,3,Injection site pain,,,SUBGROUP_AND_OVERALL,Crawford 2013 (CS37),2009,0.0,0.0,0.0,0.0,29,50,0.0,0.0,19,178,0.0,0.0,21.107746,5.433684,3.342024,8.834445,
+1,3,Injection site pain,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,58,207,0.0,0.0,1,101,0.0,0.0,8.950574,28.299517,3.976584,201.39465,
+1,3,Injection site pain,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,61,202,0.0,0.0,0,100,0.0,0.0,5.554524,61.197044,3.824005,979.360109,Degarelix 240 mg induction dose/160 mg maintenance dose s.c.
+1,3,Injection site pain,,,SUBGROUP_AND_OVERALL,Mason 2013 (CS30),2009,0.0,0.0,0.0,0.0,60,181,0.0,0.0,1,64,0.0,0.0,8.989047,21.21547,3.001659,149.949146,
+1,3,Injection site pain,,,SUBGROUP_AND_OVERALL,Ozono 2018 (3550-CL-0010),2016,0.0,0.0,0.0,0.0,88,117,0.0,0.0,7,117,0.0,0.0,19.030308,12.571429,6.083862,25.977056,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
+1,3,Injection site pain,,,SUBGROUP_AND_OVERALL,Shore 2012 (CS35),2009,0.0,0.0,0.0,0.0,173,565,0.0,0.0,4,283,0.0,0.0,16.584049,21.663274,8.123022,57.773754,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
+1,3,Injection site pain,,,SUBGROUP_AND_OVERALL,Xie 2016 (PANDA),2016,0.0,0.0,0.0,0.0,35,142,0.0,0.0,1,141,0.0,0.0,8.885705,34.753521,4.826973,250.220407,
+1,4,Cardiovascular events,,,SUBGROUP_AND_OVERALL,Margel 2019 (0102-15-RMC),2019,0.0,0.0,0.0,0.0,2,41,0.0,0.0,13,39,0.0,0.0,100.0,0.146341,0.035278,0.60706,
+1,5,Back pain,,,SUBGROUP_AND_OVERALL,Axcrona 2012 (CS31),2009,0.0,0.0,0.0,0.0,2,84,0.0,0.0,2,98,0.0,0.0,3.704615,1.166667,0.167961,8.103753,
+1,5,Back pain,,,SUBGROUP_AND_OVERALL,Crawford 2013 (CS37),2009,0.0,0.0,0.0,0.0,3,50,0.0,0.0,10,178,0.0,0.0,8.885391,1.068,0.305532,3.733237,
+1,5,Back pain,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,12,207,0.0,0.0,9,101,0.0,0.0,20.158361,0.650564,0.283429,1.49326,
+1,5,Back pain,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,12,202,0.0,0.0,8,100,0.0,0.0,18.733359,0.742574,0.313633,1.75816,Degarelix 240 mg induction dose/160 mg maintenance dose every 4 weeks s.c.
+1,5,Back pain,,,SUBGROUP_AND_OVERALL,Ozono 2018 (3550-CL-0010),2016,0.0,0.0,0.0,0.0,6,117,0.0,0.0,5,117,0.0,0.0,10.363254,1.2,0.376627,3.823414,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
+1,5,Back pain,,,SUBGROUP_AND_OVERALL,Shore 2012 (CS35),2009,0.0,0.0,0.0,0.0,19,565,0.0,0.0,21,283,0.0,0.0,38.15502,0.453182,0.247735,0.829005,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 month s.c.
+1,6,Gynecomastia,,,SUBGROUP_AND_OVERALL,Sayyid 2017 (DEG_PRE-OP),2017,0.0,0.0,0.0,0.0,0,13,0.0,0.0,1,12,0.0,0.0,100.0,0.309524,0.013801,6.941971,
+1,7,Constipation,,,SUBGROUP_AND_OVERALL,Anderson 2013 (CS28),2009,0.0,0.0,0.0,0.0,3,27,0.0,0.0,0,13,0.0,0.0,4.881362,3.5,0.193953,63.159721,
+1,7,Constipation,,,SUBGROUP_AND_OVERALL,Crawford 2013 (CS37),2009,0.0,0.0,0.0,0.0,4,50,0.0,0.0,12,178,0.0,0.0,24.90911,1.186667,0.400082,3.51972,
+1,7,Constipation,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,11,207,0.0,0.0,5,101,0.0,0.0,26.759967,1.07343,0.383218,3.006782,
+1,7,Constipation,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,6,202,0.0,0.0,5,100,0.0,0.0,22.716999,0.594059,0.185789,1.899506,Degarelix 240 mg induction dose/160 mg maintenance dose every 4 weeks s.c.
+1,7,Constipation,,,SUBGROUP_AND_OVERALL,Ozono 2018 (3550-CL-0010),2016,0.0,0.0,0.0,0.0,3,117,0.0,0.0,12,117,0.0,0.0,20.732563,0.25,0.072424,0.862978,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
+1,8,Diarrhea,,,SUBGROUP_AND_OVERALL,Crawford 2013 (CS37),2009,0.0,0.0,0.0,0.0,3,50,0.0,0.0,6,178,0.0,0.0,79.500593,1.78,0.461479,6.865757,
+1,8,Diarrhea,,,SUBGROUP_AND_OVERALL,Sayyid 2017 (DEG_PRE-OP),2017,0.0,0.0,0.0,0.0,1,13,0.0,0.0,1,12,0.0,0.0,20.499407,0.923077,0.064668,13.175994,
+1,9,Vomiting,,,SUBGROUP_AND_OVERALL,Crawford 2013 (CS37),2009,0.0,0.0,0.0,0.0,4,50,0.0,0.0,5,178,0.0,0.0,28.351109,2.848,0.79438,10.210615,
+1,9,Vomiting,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,9,207,0.0,0.0,4,100,0.0,0.0,34.745565,1.086957,0.343019,3.444345,
+1,9,Vomiting,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,11,201,0.0,0.0,4,101,0.0,0.0,36.903326,1.381841,0.451261,4.231439,Degarelix 240 mg induction dose/160 mg maintenance dose every 4 weeks s.c.
+1,10,Loss of sexual interest,,,SUBGROUP_AND_OVERALL,Mason 2013 (CS30),2009,0.0,0.0,0.0,0.0,12,181,0.0,0.0,4,64,0.0,0.0,100.0,1.060773,0.354836,3.171157,
+1,10,Loss of sexual interest,,,SUBGROUP_AND_OVERALL,Sayyid 2017 (DEG_PRE-OP),2017,0.0,0.0,0.0,0.0,0,13,0.0,0.0,0,12,0.0,0.0,,,,,
+1,11,Loss of sexual function,,,SUBGROUP_AND_OVERALL,Axcrona 2012 (CS31),2009,0.0,0.0,0.0,0.0,4,84,0.0,0.0,4,98,0.0,0.0,28.782128,1.166667,0.300964,4.522511,
+1,11,Loss of sexual function,,,SUBGROUP_AND_OVERALL,Mason 2013 (CS30),2009,0.0,0.0,0.0,0.0,14,181,0.0,0.0,7,64,0.0,0.0,71.217872,0.707182,0.298849,1.673443,
+1,12,Fatigue,,,SUBGROUP_AND_OVERALL,Anderson 2013 (CS28),2009,0.0,0.0,0.0,0.0,2,27,0.0,0.0,0,13,0.0,0.0,1.233186,2.5,0.128539,48.623362,
+1,12,Fatigue,,,SUBGROUP_AND_OVERALL,Crawford 2013 (CS37),2009,0.0,0.0,0.0,0.0,10,50,0.0,0.0,32,178,0.0,0.0,26.767641,1.1125,0.58837,2.103535,
+1,12,Fatigue,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,7,207,0.0,0.0,6,100,0.0,0.0,9.594802,0.563607,0.19449,1.633264,
+1,12,Fatigue,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,13,202,0.0,0.0,7,101,0.0,0.0,13.797577,0.928571,0.382371,2.254998,Degarelix 240 mg induction dose/160 mg maintenance dose every 4 weeks s.c.
+1,12,Fatigue,,,SUBGROUP_AND_OVERALL,Mason 2013 (CS30),2009,0.0,0.0,0.0,0.0,11,181,0.0,0.0,6,64,0.0,0.0,11.959435,0.64825,0.249953,1.681234,
+1,12,Fatigue,,,SUBGROUP_AND_OVERALL,Sayyid 2017 (DEG_PRE-OP),2017,0.0,0.0,0.0,0.0,3,13,0.0,0.0,6,12,0.0,0.0,8.322512,0.461538,0.147253,1.446613,
+1,12,Fatigue,,,SUBGROUP_AND_OVERALL,Shore 2012 (CS35),2009,0.0,0.0,0.0,0.0,26,565,0.0,0.0,15,283,0.0,0.0,28.324847,0.868201,0.467393,1.612715,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
+1,13,Hot flushes,,,SUBGROUP_AND_OVERALL,Anderson 2013 (CS28),2009,0.0,0.0,0.0,0.0,5,27,0.0,0.0,2,13,0.0,0.0,0.858179,1.203704,0.268471,5.39687,
+1,13,Hot flushes,,,SUBGROUP_AND_OVERALL,Axcrona 2012 (CS31),2009,0.0,0.0,0.0,0.0,8,84,0.0,0.0,17,98,0.0,0.0,2.987485,0.54902,0.249625,1.207503,
+1,13,Hot flushes,,,SUBGROUP_AND_OVERALL,Crawford 2013 (CS37),2009,0.0,0.0,0.0,0.0,26,50,0.0,0.0,110,178,0.0,0.0,16.356124,0.841455,0.629456,1.124854,
+1,13,Hot flushes,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,53,207,0.0,0.0,21,100,0.0,0.0,8.381319,1.219232,0.780954,1.903474,
+1,13,Hot flushes,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,53,202,0.0,0.0,22,101,0.0,0.0,8.69292,1.204545,0.77893,1.862722,Degarelix 240 mg induction dose/160 mg maintenance dose every 4 weeks s.c.
+1,13,Hot flushes,,,SUBGROUP_AND_OVERALL,Mason 2013 (CS30),2009,0.0,0.0,0.0,0.0,108,181,0.0,0.0,40,64,0.0,0.0,22.796729,0.954696,0.762791,1.194881,
+1,13,Hot flushes,,,SUBGROUP_AND_OVERALL,Ozono 2018 (3550-CL-0010),2016,0.0,0.0,0.0,0.0,27,117,0.0,0.0,38,117,0.0,0.0,9.195488,0.710526,0.466128,1.083067,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
+1,13,Hot flushes,,,SUBGROUP_AND_OVERALL,Sayyid 2017 (DEG_PRE-OP),2017,0.0,0.0,0.0,0.0,12,13,0.0,0.0,8,12,0.0,0.0,8.90412,1.384615,0.90093,2.127979,
+1,13,Hot flushes,,,SUBGROUP_AND_OVERALL,Shore 2012 (CS35),2009,0.0,0.0,0.0,0.0,160,565,0.0,0.0,76,283,0.0,0.0,21.827637,1.054495,0.835514,1.330867,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
+1,14,Anemia,,,SUBGROUP_AND_OVERALL,Anderson 2013 (CS28),2009,0.0,0.0,0.0,0.0,2,27,0.0,0.0,0,13,0.0,0.0,8.450697,2.5,0.128539,48.623362,
+1,14,Anemia,,,SUBGROUP_AND_OVERALL,Axcrona 2012 (CS31),2009,0.0,0.0,0.0,0.0,0,84,0.0,0.0,2,98,0.0,0.0,8.147664,0.232941,0.011339,4.785213,
+1,14,Anemia,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,0,207,0.0,0.0,1,100,0.0,0.0,7.30639,0.161859,0.006652,3.938259,
+1,14,Anemia,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,0,202,0.0,0.0,2,101,0.0,0.0,8.12329,0.100493,0.00487,2.073753,Degarelix 240 mg induction dose/160 mg maintenance dose every 4 weeks s.c.
+1,14,Anemia,,,SUBGROUP_AND_OVERALL,Ozono 2018 (3550-CL-0010),2016,0.0,0.0,0.0,0.0,3,117,0.0,0.0,12,117,0.0,0.0,48.492409,0.25,0.072424,0.862978,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
+1,14,Anemia,,,SUBGROUP_AND_OVERALL,Shore 2012 (CS35),2009,0.0,0.0,0.0,0.0,2,565,0.0,0.0,2,283,0.0,0.0,19.47955,0.500885,0.070925,3.537361,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
+1,15,Hepatic enzyme increase (alanine aminotransferase),,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,20,207,0.0,0.0,5,100,0.0,0.0,31.448964,1.932367,0.746975,4.998887,
+1,15,Hepatic enzyme increase (alanine aminotransferase),,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,17,102,0.0,0.0,6,101,0.0,0.0,35.939519,2.805556,1.153144,6.82581,Degarelix 240 mg induction dose/160 mg maintenance dose every 4 weeks s.c.
+1,15,Hepatic enzyme increase (alanine aminotransferase),,,SUBGROUP_AND_OVERALL,Mason 2013 (CS30),2009,0.0,0.0,0.0,0.0,1,181,0.0,0.0,0,64,0.0,0.0,2.79532,1.071429,0.044199,25.972705,
+1,15,Hepatic enzyme increase (alanine aminotransferase),,,SUBGROUP_AND_OVERALL,Ozono 2018 (3550-CL-0010),2016,0.0,0.0,0.0,0.0,7,117,0.0,0.0,5,117,0.0,0.0,22.703073,1.4,0.457403,4.28506,
+1,15,Hepatic enzyme increase (alanine aminotransferase),,,SUBGROUP_AND_OVERALL,Sayyid 2017 (DEG_PRE-OP),2017,0.0,0.0,0.0,0.0,5,13,0.0,0.0,1,12,0.0,0.0,7.113123,4.615385,0.625542,34.053326,
+1,16,Dyspnea,,,SUBGROUP_AND_OVERALL,Axcrona 2012 (CS31),2009,0.0,0.0,0.0,0.0,0,84,0.0,0.0,1,98,0.0,0.0,100.0,0.388235,0.016025,9.405693,
+1,17,Urinary tract infection,,,SUBGROUP_AND_OVERALL,Anderson 2013 (CS28),2009,0.0,0.0,0.0,0.0,1,27,0.0,0.0,2,13,0.0,0.0,6.790764,0.240741,0.023957,2.419195,
+1,17,Urinary tract infection,,,SUBGROUP_AND_OVERALL,Axcrona 2012 (CS31),2009,0.0,0.0,0.0,0.0,0,84,0.0,0.0,2,98,0.0,0.0,4.033973,0.232941,0.011339,4.785213,
+1,17,Urinary tract infection,,,SUBGROUP_AND_OVERALL,Crawford 2013 (CS37),2009,0.0,0.0,0.0,0.0,4,50,0.0,0.0,13,178,0.0,0.0,26.86301,1.095385,0.373535,3.212195,
+1,17,Urinary tract infection,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,10,207,0.0,0.0,9,101,0.0,0.0,37.618769,0.542136,0.227458,1.292159,
+1,17,Urinary tract infection,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,3,202,0.0,0.0,9,100,0.0,0.0,19.908784,0.165017,0.045676,0.596168,Degarelix 240 mg induction dose/160 mg maintenance dose every 4 weeks s.c.
+1,17,Urinary tract infection,,,SUBGROUP_AND_OVERALL,Shore 2012 (CS35),2009,0.0,0.0,0.0,0.0,1,565,0.0,0.0,1,283,0.0,0.0,4.7847,0.500885,0.031445,7.978507,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
+1,18,Hematuria,,,SUBGROUP_AND_OVERALL,Crawford 2013 (CS37),2009,0.0,0.0,0.0,0.0,4,50,0.0,0.0,9,178,0.0,0.0,88.788499,1.582222,0.508436,4.923778,
+1,18,Hematuria,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,1,207,0.0,0.0,0,201,0.0,0.0,11.211501,2.913462,0.119385,71.100068,
+1,19,Urinary retention,,,SUBGROUP_AND_OVERALL,Anderson 2013 (CS28),2009,0.0,0.0,0.0,0.0,0,27,0.0,0.0,1,13,0.0,0.0,14.25421,0.166667,0.007245,3.833933,
+1,19,Urinary retention,,,SUBGROUP_AND_OVERALL,Axcrona 2012 (CS31),2009,0.0,0.0,0.0,0.0,0,84,0.0,0.0,2,98,0.0,0.0,15.341433,0.232941,0.011339,4.785213,
+1,19,Urinary retention,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,0,207,0.0,0.0,1,101,0.0,0.0,13.756875,0.163462,0.006718,3.977484,
+1,19,Urinary retention,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,2,202,0.0,0.0,1,100,0.0,0.0,24.567524,0.990099,0.090862,10.788847,Degarelix 240 mg induction dose/160 mg maintenance dose every 4 weeks s.c.
+1,19,Urinary retention,,,SUBGROUP_AND_OVERALL,Mason 2013 (CS30),2009,0.0,0.0,0.0,0.0,1,181,0.0,0.0,0,64,0.0,0.0,13.789463,1.071429,0.044199,25.972705,
+1,19,Urinary retention,,,SUBGROUP_AND_OVERALL,Shore 2012 (CS35),2009,0.0,0.0,0.0,0.0,1,565,0.0,0.0,1,283,0.0,0.0,18.290496,0.500885,0.031445,7.978507,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
+1,20,Mortality during study conduction (post hoc),,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,5,207,0.0,0.0,5,101,0.0,0.0,40.221323,0.487923,0.144547,1.646992,
+1,20,Mortality during study conduction (post hoc),,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,5,202,0.0,0.0,4,100,0.0,0.0,35.618917,0.618812,0.169872,2.254221,Degarelix 240 mg induction dose/160 mg maintenance dose every 4 weeks s.c.
+1,20,Mortality during study conduction (post hoc),,,SUBGROUP_AND_OVERALL,Margel 2019 (0102-15-RMC),2019,0.0,0.0,0.0,0.0,0,41,0.0,0.0,2,39,0.0,0.0,6.5907,0.190476,0.009433,3.846258,
+1,20,Mortality during study conduction (post hoc),,,SUBGROUP_AND_OVERALL,Shore 2012 (CS35),2009,0.0,0.0,0.0,0.0,0,565,0.0,0.0,1,283,0.0,0.0,5.822543,0.167256,0.006835,4.092683,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
+1,20,Mortality during study conduction (post hoc),,,SUBGROUP_AND_OVERALL,Xie 2016 (PANDA),2016,0.0,0.0,0.0,0.0,1,142,0.0,0.0,3,141,0.0,0.0,11.746517,0.330986,0.034846,3.143901,
+1,21,Discontinuation due to adverse events (post hoc),,,SUBGROUP_AND_OVERALL,Anderson 2013 (CS28),2009,0.0,0.0,0.0,0.0,0,27,0.0,0.0,1,13,0.0,0.0,1.163989,0.166667,0.007245,3.833933,
+1,21,Discontinuation due to adverse events (post hoc),,,SUBGROUP_AND_OVERALL,Axcrona 2012 (CS31),2009,0.0,0.0,0.0,0.0,0,82,0.0,0.0,2,97,0.0,0.0,1.252975,0.236145,0.011498,4.849827,
+1,21,Discontinuation due to adverse events (post hoc),,,SUBGROUP_AND_OVERALL,Crawford 2013 (CS37),2009,0.0,0.0,0.0,0.0,5,50,0.0,0.0,18,178,0.0,0.0,12.95681,0.988889,0.38635,2.531127,
+1,21,Discontinuation due to adverse events (post hoc),,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,15,207,0.0,0.0,6,100,0.0,0.0,13.634895,1.207729,0.48315,3.01896,
+1,21,Discontinuation due to adverse events (post hoc),,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,19,202,0.0,0.0,6,101,0.0,0.0,14.57229,1.583333,0.652672,3.841049,Degarelix 240 mg induction dose/160 mg maintenance dose every 4 weeks s.c.
+1,21,Discontinuation due to adverse events (post hoc),,,SUBGROUP_AND_OVERALL,Mason 2013 (CS30),2009,0.0,0.0,0.0,0.0,3,180,0.0,0.0,0,64,0.0,0.0,1.315459,2.513812,0.131625,48.009687,
+1,21,Discontinuation due to adverse events (post hoc),,,SUBGROUP_AND_OVERALL,Ozono 2018 (3550-CL-0010),2016,0.0,0.0,0.0,0.0,8,117,0.0,0.0,9,117,0.0,0.0,13.602854,0.888889,0.355215,2.224352,
+1,21,Discontinuation due to adverse events (post hoc),,,SUBGROUP_AND_OVERALL,Shore 2012 (CS35),2009,0.0,0.0,0.0,0.0,41,565,0.0,0.0,14,283,0.0,0.0,32.914395,1.466877,0.813398,2.645357,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
+1,21,Discontinuation due to adverse events (post hoc),,,SUBGROUP_AND_OVERALL,Xie 2016 (PANDA),2016,0.0,0.0,0.0,0.0,4,142,0.0,0.0,9,141,0.0,0.0,8.586334,0.441315,0.139107,1.400058,
+1,22,Total non-serious adverse events (post hoc),,,SUBGROUP_AND_OVERALL,Anderson 2013 (CS28),2009,0.0,0.0,0.0,0.0,14,27,0.0,0.0,7,13,0.0,0.0,1.001857,0.962963,0.517605,1.791517,
+1,22,Total non-serious adverse events (post hoc),,,SUBGROUP_AND_OVERALL,Axcrona 2012 (CS31),2009,0.0,0.0,0.0,0.0,33,84,0.0,0.0,47,98,0.0,0.0,3.129527,0.819149,0.585109,1.146804,
+1,22,Total non-serious adverse events (post hoc),,,SUBGROUP_AND_OVERALL,Crawford 2013 (CS37),2009,0.0,0.0,0.0,0.0,47,50,0.0,0.0,158,178,0.0,0.0,17.755937,1.058987,0.970378,1.155688,
+1,22,Total non-serious adverse events (post hoc),,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,162,207,0.0,0.0,77,101,0.0,0.0,12.548588,1.026539,0.901019,1.169544,
+1,22,Total non-serious adverse events (post hoc),,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,165,202,0.0,0.0,76,100,0.0,0.0,12.794525,1.074779,0.945606,1.221597,Degarelix 240 mg induction dose/160 mg maintenance dose every 4 weeks s.c.
+1,22,Total non-serious adverse events (post hoc),,,SUBGROUP_AND_OVERALL,Mason 2013 (CS30),2009,0.0,0.0,0.0,0.0,142,181,0.0,0.0,47,64,0.0,0.0,9.439084,1.068297,0.904942,1.261139,
+1,22,Total non-serious adverse events (post hoc),,,SUBGROUP_AND_OVERALL,Ozono 2018 (3550-CL-0010),2016,0.0,0.0,0.0,0.0,117,117,0.0,0.0,106,117,0.0,0.0,21.555706,1.103286,1.038572,1.172034,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
+1,22,Total non-serious adverse events (post hoc),,,SUBGROUP_AND_OVERALL,Sayyid 2017 (DEG_PRE-OP),2017,0.0,0.0,0.0,0.0,13,13,0.0,0.0,12,12,0.0,0.0,10.859168,1.0,0.862203,1.15982,
+1,22,Total non-serious adverse events (post hoc),,,SUBGROUP_AND_OVERALL,Shore 2012 (CS35),2009,0.0,0.0,0.0,0.0,336,565,0.0,0.0,125,283,0.0,0.0,10.915608,1.346379,1.161601,1.560549,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
+1,23,Biochemical progression,,,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,16,207,0.0,0.0,26,201,0.0,0.0,35.815501,0.597547,0.330657,1.079858,
+1,23,Biochemical progression,,,SUBGROUP_AND_OVERALL,Xie 2016 (PANDA),2016,0.0,0.0,0.0,0.0,25,142,0.0,0.0,40,141,0.0,0.0,64.184499,0.620599,0.398874,0.965574,
+2,1,Serious adverse events,Degarelix 240 mg/80 mg,1,SUBGROUP_AND_OVERALL,Anderson 2013 (CS28),2009,0.0,0.0,0.0,0.0,0,27,0.0,0.0,1,13,0.0,0.0,0.62046,0.166667,0.007245,3.833933,
+2,1,Serious adverse events,Degarelix 240 mg/80 mg,1,SUBGROUP_AND_OVERALL,Axcrona 2012 (CS31),2009,0.0,0.0,0.0,0.0,1,84,0.0,0.0,7,98,0.0,0.0,1.405757,0.166667,0.020928,1.327323,
+2,1,Serious adverse events,Degarelix 240 mg/80 mg,1,SUBGROUP_AND_OVERALL,Crawford 2013 (CS37),2009,0.0,0.0,0.0,0.0,6,50,0.0,0.0,18,178,0.0,0.0,7.515633,1.186667,0.497629,2.829777,
+2,1,Serious adverse events,Degarelix 240 mg/80 mg,1,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,21,207,0.0,0.0,28,201,0.0,0.0,17.845111,0.728261,0.428032,1.239076,
+2,1,Serious adverse events,Degarelix 240 mg/80 mg,1,SUBGROUP_AND_OVERALL,Margel 2019 (0102-15-RMC),2019,0.0,0.0,0.0,0.0,1,41,0.0,0.0,8,39,0.0,0.0,1.464745,0.118902,0.015583,0.907241,Major cardiovascular and cerebrovascular events
+2,1,Serious adverse events,Degarelix 240 mg/80 mg,1,SUBGROUP_AND_OVERALL,Mason 2013 (CS30),2009,0.0,0.0,0.0,0.0,7,181,0.0,0.0,0,64,0.0,0.0,0.750783,5.357143,0.310294,92.489782,
+2,1,Serious adverse events,Degarelix 240 mg/80 mg,1,SUBGROUP_AND_OVERALL,Xie 2016 (PANDA),2016,0.0,0.0,0.0,0.0,12,142,0.0,0.0,18,141,0.0,0.0,11.351469,0.661972,0.331276,1.322784,
+2,1,Serious adverse events,Degarelix 240 mg/160 mg,2,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,24,202,0.0,0.0,28,201,0.0,0.0,19.14312,0.8529,0.512652,1.41897,
+2,1,Serious adverse events,Degarelix 240 mg/480 mg,3,SUBGROUP_AND_OVERALL,Ozono 2018 (3550-CL-0010),2016,0.0,0.0,0.0,0.0,15,117,0.0,0.0,16,117,0.0,0.0,12.475299,0.9375,0.486421,1.806884,
+2,1,Serious adverse events,Degarelix 240 mg/480 mg,3,SUBGROUP_AND_OVERALL,Shore 2012 (CS35),2009,0.0,0.0,0.0,0.0,58,565,0.0,0.0,33,283,0.0,0.0,27.427623,0.880343,0.588448,1.317031,
+2,2,Quality of life,Degarelix 240 mg/80 mg,1,SUBGROUP_AND_OVERALL,Crawford 2013 (CS37),2009,0.0,0.0,-4.28,11.34,0,41,-1.65,11.15,0,150,0.0,0.0,9.563128,-0.234087,-0.580305,0.11213,Functional Assessment of Cancer Therapy – Prostate (FACT-P)
+2,2,Quality of life,Degarelix 240 mg/80 mg,1,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.871,0.11,0,935,0.861,0.113,0,914,0.0,0.0,54.400532,0.089655,-0.001558,0.180868,EORTC QLQ-C30 mapped to EORTC-8D
+2,2,Quality of life,Degarelix 240 mg/480 mg,2,SUBGROUP_AND_OVERALL,Shore 2012 (CS35),2009,0.0,0.0,0.18,10.9,0,565,-0.87,9.76,0,282,0.0,0.0,36.03634,0.099583,-0.043399,0.242565,Short-Form-36 (SF-36)
+2,3,Injection site pain,Degarelix 240 mg/80 mg,1,SUBGROUP_AND_OVERALL,Anderson 2013 (CS28),2009,0.0,0.0,0.0,0.0,6,27,0.0,0.0,0,13,0.0,0.0,5.460628,6.5,0.393694,107.316907,
+2,3,Injection site pain,Degarelix 240 mg/80 mg,1,SUBGROUP_AND_OVERALL,Axcrona 2012 (CS31),2009,0.0,0.0,0.0,0.0,12,84,0.0,0.0,0,98,0.0,0.0,5.437419,29.117647,1.749869,484.5147,
+2,3,Injection site pain,Degarelix 240 mg/80 mg,1,SUBGROUP_AND_OVERALL,Crawford 2013 (CS37),2009,0.0,0.0,0.0,0.0,29,50,0.0,0.0,19,178,0.0,0.0,21.107746,5.433684,3.342024,8.834445,
+2,3,Injection site pain,Degarelix 240 mg/80 mg,1,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,58,207,0.0,0.0,1,101,0.0,0.0,8.950574,28.299517,3.976584,201.39465,
+2,3,Injection site pain,Degarelix 240 mg/80 mg,1,SUBGROUP_AND_OVERALL,Mason 2013 (CS30),2009,0.0,0.0,0.0,0.0,60,181,0.0,0.0,1,64,0.0,0.0,8.989047,21.21547,3.001659,149.949146,
+2,3,Injection site pain,Degarelix 240 mg/80 mg,1,SUBGROUP_AND_OVERALL,Xie 2016 (PANDA),2016,0.0,0.0,0.0,0.0,35,142,0.0,0.0,1,141,0.0,0.0,8.885705,34.753521,4.826973,250.220407,
+2,3,Injection site pain,Degarelix 240 mg/160 mg,2,SUBGROUP_AND_OVERALL,Klotz 2008 (CS21),2006,0.0,0.0,0.0,0.0,61,202,0.0,0.0,0,100,0.0,0.0,5.554524,61.197044,3.824005,979.360109,Degarelix 240 mg induction dose/160 mg maintenance dose every 4 weeks s.c.
+2,3,Injection site pain,Degarelix 240 mg/480 mg,3,SUBGROUP_AND_OVERALL,Ozono 2018 (3550-CL-0010),2016,0.0,0.0,0.0,0.0,88,117,0.0,0.0,7,117,0.0,0.0,19.030308,12.571429,6.083862,25.977056,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
+2,3,Injection site pain,Degarelix 240 mg/480 mg,3,SUBGROUP_AND_OVERALL,Shore 2012 (CS35),2009,0.0,0.0,0.0,0.0,173,565,0.0,0.0,4,283,0.0,0.0,16.584049,21.663274,8.123022,57.773754,Degarelix 240 mg induction dose/480 mg maintenance dose every 3 months s.c.
