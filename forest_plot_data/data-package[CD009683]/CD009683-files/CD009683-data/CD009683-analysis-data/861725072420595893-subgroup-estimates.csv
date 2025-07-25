@@ -1,0 +1,8 @@
+﻿Analysis group,Analysis number,Subgroup,Subgroup number,Experimental cases,Experimental N,Control cases,Control N,Weight,Mean,CI start,CI end,Heterogeneity Tau²,Tau² CI start,Tau² CI end,Heterogeneity Chi²,Heterogeneity df,Heterogeneity P,Heterogeneity I²,Effect Z,Effect T,Effect P,ID
+1,1,Change in TRS subscale B score,1,,108,,100,100.0,-5.4,-8.418917,-2.381083,,,,0.0,0,1.0,0.0,3.505828,,4.55E-4,subgroup:459640877448978528
+1,1,Change in TRS subscale C score,2,,108,,100,100.0,-5.7,-8.744115,-2.655885,,,,0.0,0,1.0,0.0,3.669965,,2.43E-4,subgroup:459640877449502818
+1,1,Change in TRS total score,3,,137,,136,100.0,-8.914631,-10.499974,-7.329288,,,,35.313519,2,0.0,94.336447,11.021184,,0.0,subgroup:459640877449764964
+1,2,Withdrawals: lack of efficacy,1,1,147,5,138,100.0,0.181197,0.021514,1.526097,,,,0.0,0,1.0,0.0,1.571157,,0.116146,subgroup:459640877451337833
+1,2,Withdrawals: AEs,2,44,147,13,138,100.0,3.171148,1.785588,5.631858,,,,0.037217,1,0.847025,0.0,3.938363,,8.2E-5,subgroup:459640877452124268
+1,2,Withdrawals: other reasons,3,12,147,12,138,100.0,0.956694,0.446385,2.050392,,,,0.039976,1,0.841528,0.0,0.113827,,0.909375,subgroup:459640877452648559
+1,2,Withdrawals: total,4,57,147,30,138,100.0,1.784848,1.225201,2.60013,,,,0.004622,1,0.945797,0.0,3.018041,,0.002544,subgroup:459640877453434994
