@@ -7,18 +7,20 @@ from selenium.webdriver.support.ui import Select
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from selenium.webdriver.common.action_chains import ActionChains
 import requests
+from urllib import request
 
 import time
 import re
 import pandas as pd
 from datetime import datetime
 import os
+import random
 
 options = Options()
 options.add_argument('--headless=new')  # Run without GUI
 options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
 options.add_argument("--disable-blink-features=AutomationControlled")
-options.add_argument("--window-size=1920,1080")
+options.add_argument("--window-size=3840,2160")
 
 DL_dir = "C:/Users/PC/Dropbox/various_projects/retraction_watch/MEP_DataAnalyst/shared_code"
 
@@ -33,6 +35,7 @@ def scrape_review_data(url, driver_options=options, DL_dir=DL_dir):
     vals = {
         "guideline":0,
         "pub_date":None,
+        "downloadable":0,
     }
     page_retrieved = False
     retry = 0
@@ -61,9 +64,27 @@ def scrape_review_data(url, driver_options=options, DL_dir=DL_dir):
     gline_ct = driver.find_element(By.CSS_SELECTOR, 'a[title="Guidelines"]').text
     pub_date = driver.find_element(By.CSS_SELECTOR, 'span.publish-date').text
     pub_date = datetime.strptime(pub_date.split(": ")[-1], "%d %B %Y").date()
+    print(f"... published on {pub_date}. {gline_ct}")
+    if len(gline_ct)>0:
+        vals["guideline"] = int(gline_ct.split(" ")[2])
+    vals["pub_date"] = pub_date
+    
+    
     
     DL_link = driver.find_element(By.CSS_SELECTOR, "li.download-stats-data-link")
     DL_link.click()
+    
+    is_locked = ("locked" in DL_link.get_attribute("class")
+                or DL_link.find_element(By.TAG_NAME, "a").get_attribute("data-disabled") == "true"
+                or "fa-lock" in DL_link.find_element(By.TAG_NAME, "i").get_attribute("class")
+                )
+    if is_locked:
+        print("Data is locked. Let's deal with it later.")
+        time.sleep(2+2*random.random())
+        driver.quit()
+        return vals
+    
+    
     driver.save_screenshot("debug_html.png")
     DL_URL = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "form.download-stats-data-form")))
     DL_URL = DL_URL.get_attribute("action")
@@ -72,59 +93,26 @@ def scrape_review_data(url, driver_options=options, DL_dir=DL_dir):
     print(DL_URL)
     pkg_name = DL_URL.split("/")[-1]
     
-    DL_driver = webdriver.Chrome(options=options)
-    # DL_driver.execute_cdp_cmd(
-    # "Page.setDownloadBehavior",
-    # {
-        # "behavior": "allow",
-        # "downloadPath": DL_dir
-    # }
-    # )
-    DL_URL = "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014624.pub2/media/CDSR/CD014624/supinfo/CD014624-dataPackage.zip"
-    DL_driver.get(DL_URL)
-    # wait_for_download(DL_dir)
-    time.sleep(5)
-    DL_driver.save_screenshot("debug_DL_html.png")
-    DL_driver.quit()
     
-    # selenium_cookies = driver.get_cookies()
-    # cookies = {cookie['name']: cookie['value'] for cookie in selenium_cookies}
-    # headers = {
-    # "User-Agent": driver.execute_script("return navigator.userAgent"),
-    # "Referer": driver.current_url,
-    # "Accept": "*/*",
-    # "Accept-Language": "en-US,en;q=0.5",
-    # "Connection": "keep-alive"
-        # }
-
-
+    # DL_URL = "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD014624.pub2/media/CDSR/CD014624/supinfo/CD014624-dataPackage.zip"
     
-    # with requests.get(DL_URL, headers=headers, cookies=cookies, stream=True) as r:
-        # print(r.headers.get("Content-Type"))
-        # r.raise_for_status()
-        # with open(pkg_name, "wb") as f:
-            # for chunk in r.iter_content(chunk_size=8192):
-                # if chunk:
-                    # f.write(chunk)
-    # DL_file = requests.get(DL_URL)
-    # with open(pkg_name, "wb") as f:
-        # f.write(DL_file.content)
     
-    time.sleep(2)
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"}
+    req = request.Request(DL_URL, headers=headers)
+    # cookie is actually not needed.
+    # cookie_dict = {c['name']: c['value'] for c in driver.get_cookies()}
+    # for k, v in cookie_dict.items():
+        # req.add_header("Cookie", f"{k}={v}")
+    with request.urlopen(req) as response, open(f"{DL_dir}/{pkg_name}", "wb") as out_file:
+        out_file.write(response.read())
+    vals["downloadable"] = 1
     
     
     # gline_ct = get_guideline_text_safe(driver)
     
-    print(f"... published on {pub_date}. {gline_ct}")
-    if len(gline_ct)>0:
-        vals["guideline"] = int(gline_ct.split(" ")[2])
-    vals["pub_date"] = pub_date
-    # print(gline_ct.text)
-    # driver.delete_all_cookies()
-    # driver.execute_script("window.localStorage.clear(); window.sessionStorage.clear();")
-    # driver.get("about:blank")
+   
+    time.sleep(2+2*random.random()) # to avoid being regarded as a DDoS attack
     driver.quit()
-    time.sleep(3) # to avoid being regarded as a DDoS attack
+    
     return vals
     
-# <form class="download-stats-data-form" method="GET" target="_blank" action="/cdsr/doi/10.1002/14651858.CD014624.pub2/media/CDSR/CD014624/supinfo/CD014624-dataPackage.zip?content-disposition=attachment&amp;mime-type=application/octet-stream"> <input type="hidden" name="content-disposition" value="attachment"> <input type="hidden" name="mime-type" value="application/octet-stream"> <p class="print-options-controls"> <input type="checkbox" class="download-stats-data-toc-check-box" aria-label="I agree to these terms and conditions"> <span class="checkbox-label" aria-hidden="true">I agree to these terms and conditions</span> <button class="btn primary download-stats-data pull-right" disabled=""><i class="fa fa-download" aria-hidden="true"></i> Download data</button> </p> </form>
